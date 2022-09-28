@@ -1,1 +1,188 @@
-<mxfile host="app.diagrams.net" modified="2022-09-28T03:57:38.762Z" agent="5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/230.1.475637890 Mobile/15E148 Safari/604.1" version="20.3.7" etag="bm6ZolTywQHMTcOW6TfU" type="github"><diagram id="m5_m1QEI16Dh39k8SFYI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-28T04:38:10.650Z" agent="5.0 (iPad; CPU OS 15_6 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) GSA/230.1.475637890 Mobile/15E148 Safari/604.1" etag="k8ht0ehSCSnxaB4IgEoD" version="20.3.7" type="github">
+  <diagram id="m5_m1QEI16Dh39k8SFYI" name="Page-1">
+    <mxGraphModel dx="2191" dy="962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-1" target="ApyR1govMjHIbQv0BLQ_-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-1" value="Start" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-6" target="ApyR1govMjHIbQv0BLQ_-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-6" target="ApyR1govMjHIbQv0BLQ_-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-16" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-15">
+          <mxGeometry x="0.0687" y="-12" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-6" value="Is the temperature less than 10" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="120" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-8" target="ApyR1govMjHIbQv0BLQ_-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-8" value="Turn on boiler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="175" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-10" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="175" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-14" target="ApyR1govMjHIbQv0BLQ_-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-21" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-20">
+          <mxGeometry x="-0.1571" y="-8" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-14" target="ApyR1govMjHIbQv0BLQ_-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-26">
+          <mxGeometry x="-0.1382" y="-8" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-14" value="Is it during the week" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="370" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-19" target="ApyR1govMjHIbQv0BLQ_-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-33" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-32">
+          <mxGeometry x="-0.125" y="-9" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-19" value="Time = 6:00 and 8:30&amp;nbsp;&lt;br&gt;Or&lt;br&gt;17.30 and 22:00" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-31" target="ApyR1govMjHIbQv0BLQ_-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-45" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-44">
+          <mxGeometry x="-0.4025" y="11" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-31" value="Is temperature less than 20" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="370" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="710" y="270" as="sourcePoint" />
+            <mxPoint x="600" y="190" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="840" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-42" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-41">
+          <mxGeometry x="-0.7359" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-43" value="End" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="790" y="675" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-46" target="ApyR1govMjHIbQv0BLQ_-48">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="530" y="20" />
+              <mxPoint x="350" y="20" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-46" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="45" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-48" value="" style="shape=waypoint;sketch=0;size=6;pointerEvents=1;points=[];fillColor=default;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="20" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-52" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="550" as="sourcePoint" />
+            <mxPoint x="380" y="50" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="580" y="910" />
+              <mxPoint x="1120" y="890" />
+              <mxPoint x="1110" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-55" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-52">
+          <mxGeometry x="-0.909" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-25" target="ApyR1govMjHIbQv0BLQ_-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-25" value="Is &amp;nbsp;the time between 8:00and23:00" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="370" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-69" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-56" target="ApyR1govMjHIbQv0BLQ_-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-70" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-69">
+          <mxGeometry x="0.0593" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-56" value="Is the temperature &amp;nbsp;less than 22" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="620" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-60" value="Yes" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="555" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-63" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-56" target="ApyR1govMjHIbQv0BLQ_-64">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="590" as="sourcePoint" />
+            <mxPoint x="250" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-66" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-63">
+          <mxGeometry x="0.5108" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-64" value="End" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-68" value="Turn on the boiler" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-71" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-68" target="ApyR1govMjHIbQv0BLQ_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="870" as="sourcePoint" />
+            <mxPoint x="-10" y="820" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-290" y="940" />
+              <mxPoint x="-210" y="50" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-72" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ApyR1govMjHIbQv0BLQ_-25" target="ApyR1govMjHIbQv0BLQ_-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="240" as="sourcePoint" />
+            <mxPoint x="120" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="40" y="110" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ApyR1govMjHIbQv0BLQ_-73" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ApyR1govMjHIbQv0BLQ_-72">
+          <mxGeometry x="-0.5798" y="-6" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
