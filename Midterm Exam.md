@@ -1,3 +1,4 @@
-SEND "Temperature" TO DISPLAY
-RECIEVE 
-IF Temperature < 18
+SEND Temperature TO DISPLAY
+RECIEVE Temperature
+IF Temperature < 18 THEN
+
