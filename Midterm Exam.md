@@ -1,0 +1,1 @@
+SEND "Temperature" TO DISPLAY
